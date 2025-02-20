@@ -11,3 +11,9 @@ table{
     font-family: "Jost", serif;
     font-weight: 400;
 }
+
+body {
+    background: linear-gradient(to bottom, #ffffff, #333333);
+    height: 100vh; /* Agar gradient mencakup seluruh layar */
+    margin: 0;
+}
