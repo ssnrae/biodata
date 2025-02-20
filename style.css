@@ -9,15 +9,5 @@ h1{
 
 table{
     font-family: "Jost", serif;
-    font-weight: 100;
-}
-
-body{
-    background: linear-gradient(to bottom, #aaaaaa, #000000); /* Abu-abu ke hitam */
-    height: 100vh;
-    margin: 0;
-}
-h1,td{
-    color: black; /* Warna font hitam */
-    text-shadow: 1px 1px 3px white; /* Outline putih */
+    font-weight: 500;
 }
