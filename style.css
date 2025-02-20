@@ -13,11 +13,11 @@ table{
 }
 
 body{
-    background: linear-gradient(to bottom, #aaaaaa, #000000);
-    height: 100vh; /* Agar gradient mencakup seluruh layar */
+    background: linear-gradient(to bottom, #aaaaaa, #000000); /* Abu-abu ke hitam */
+    height: 100vh;
     margin: 0;
 }
-h1, td{
+h1,td{
     color: black; /* Warna font hitam */
     text-shadow: 1px 1px 3px white, -1px -1px 3px white; /* Outline putih */
 }
