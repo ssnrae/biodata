@@ -19,5 +19,5 @@ body{
 }
 h1,td{
     color: black; /* Warna font hitam */
-    text-shadow: 1px 1px 3px white, -1px -1px 3px white; /* Outline putih */
+    text-shadow: 1px 1px 3px white; /* Outline putih */
 }
